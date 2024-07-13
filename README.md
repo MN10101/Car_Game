@@ -3,6 +3,11 @@
 
 A simple car game implemented in Java using Swing. The game features two cars driving on a road, with sound effects for the road, car horns, and collisions. The game automatically increases the speed as the player progresses.
 
+
+# Author
+-  Mahmoud Najmeh
+<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;"> 
+
 ## Features
 
 - Two lanes with cars that the player can move between.
@@ -110,3 +115,6 @@ private void playSound(Clip clip) {
 - Images used for cars.
 
 Enjoy the game!
+
+
+https://github.com/user-attachments/assets/5014da50-bdd8-4a70-b27c-6643003144d0
