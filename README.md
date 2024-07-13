@@ -19,7 +19,7 @@ A simple car game implemented in Java using Swing. The game features two cars dr
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/cargame.git](https://github.com/MN10101/Car_Game.git)
+   git clone https://github.com/MN10101/Car_Game.git
    cd cargame
    ```
 
@@ -95,10 +95,6 @@ private void playSound(Clip clip) {
     }
 }
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
