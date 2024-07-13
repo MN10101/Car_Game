@@ -106,7 +106,7 @@ private void playSound(Clip clip) {
 
 ## Acknowledgements
 
-- Sound effects from [freesound.org](https://freesound.org/).
+- Sound effects from [freesound.org](https://pixabay.com/).
 - Images used for cars.
 
 Enjoy the game!
